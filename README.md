@@ -1,5 +1,7 @@
 # gatito
 Lightweight and portable netcat alternative for computers without internet
+I do not consent to this code being used maliciously
+This code has been made solely for academic purposes and penetration testing environments
 ### Quick usage
 
 ```
