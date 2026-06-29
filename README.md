@@ -1,6 +1,6 @@
 # gatito
 Lightweight and portable netcat alternative for computers without internet
-## Quick usage
+### Quick usage
 
 ```
 gatito.py -t 192.168.1.100 -p 7777 -l -c # command shell
