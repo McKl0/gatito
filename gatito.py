@@ -3,11 +3,6 @@
 # I do not consent to this code being used maliciously
 # This code has been made solely for academic purposes and penetration testing environments
 # The main objective of gatito is to be a lightweight more portable netcat version for computers without direct access to internet
-# By Anghelo Villalba
-# Inspired from the Python for hackers book by Black Hat
-# I do not consent to this code being used maliciously
-# This code has been made solely for academic purposes and penetration testing environments
-# The main objective of this code is to be a lightweight, portable gatito version for computers without direct access to internet
 import argparse
 import socket
 import shlex
