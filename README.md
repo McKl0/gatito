@@ -1,4 +1,4 @@
-# gatito
+# Gatito
 Lightweight and portable netcat alternative for computers without direct internet access
 
 I do not consent to this code being used maliciously
